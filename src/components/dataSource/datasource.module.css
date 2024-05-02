@@ -1,0 +1,16 @@
+.mainInputLocation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.innerInputLocation {
+  height: 800px;
+  width: 50%;
+  overflow: auto;
+}
